@@ -1,0 +1,7 @@
+venv\Scripts\activate
+streamlit run app.py
+50 Apple MacBook Pro M5 (1,89,000)
+
+
+
+
